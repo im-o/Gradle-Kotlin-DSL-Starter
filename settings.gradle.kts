@@ -1,2 +1,2 @@
-include ':app'
-rootProject.name='Test Kotlin DSL'
+include(":app")
+rootProject.name="Test Kotlin DSL"
